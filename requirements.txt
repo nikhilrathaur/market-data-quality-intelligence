@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+duckdb
+streamlit
+plotly
+langchain
+langchain-ollama
